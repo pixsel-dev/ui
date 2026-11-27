@@ -10,7 +10,7 @@ Copy the source files listed in this component's registry entry and `src/styles.
 npm install react
 ```
 
-The hosted registry URL will work after license and publication approval.
+The registry URL installs the same source under PolyForm Perimeter 1.0.0.
 
 ```sh
 npx shadcn@latest add https://raw.githubusercontent.com/pixsel-dev/ui/main/registry/navigation-surface.json

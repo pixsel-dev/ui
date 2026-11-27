@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "license": "UNLICENSED",
-  "description": "Eight React components from Pixsel.dev, prepared for source distribution.",
+  "license": "SEE LICENSE IN LICENSE",
+  "description": "Eight source-available React components from Pixsel.dev.",
   "exports": {
     ".": "./src/index.ts",
     "./styles.css": "./src/styles.css"

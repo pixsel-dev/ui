@@ -4,7 +4,7 @@ Handpicked components, motion studies, and visual references for designers and d
 
 Visit [Pixsel.dev](https://pixsel.dev).
 
-This repository contains eight selected React components. The repository is currently private while its distribution license and publication audit await approval.
+This repository contains eight selected React components. The components are available under PolyForm Perimeter 1.0.0.
 
 ## Components
 
@@ -40,7 +40,7 @@ All components use React. The curved reel also uses `clsx` and `tailwind-merge`.
 
 ## Availability and license
 
-Exactly the eight components above are designated for free source distribution. Other Pixsel previews and future premium products are managed separately. A final license is pending approval. The package is marked `UNLICENSED` and publishing is disabled during review. See [the license review](docs/licensing-review.md) and [third-party notices](THIRD_PARTY_NOTICES.md).
+Exactly the eight components above are designated for free source distribution. Other Pixsel previews and future premium products are managed separately. The components use [PolyForm Perimeter 1.0.0](LICENSE). Personal and commercial use, modification and distribution are permitted for permitted purposes. Providing a competing product is restricted. This is source-available software, not OSI open source. The package is distributed as source through GitHub and the registry; npm publication remains disabled. See [the license review](docs/licensing-review.md) and [third-party notices](THIRD_PARTY_NOTICES.md).
 
 ## Contribute
 
